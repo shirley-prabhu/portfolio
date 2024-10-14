@@ -1,6 +1,6 @@
 
 <h1>Hi, I'm Shirley! <br/><a href="https://github.com/shirley-prabhu/portfolio.git">Software Tester</a>
-</br></h1>
+</h1>
 
 ## Education
 Bachelor of Engineering
@@ -20,5 +20,6 @@ Software Tester @ Orangetrips Holidays , May 2015 - July 2016
 
 <b> Cucumber framework Practice Project </b>
   - [Practicing Cucumber framework](https://github.com/shirley-prabhu/nopcommerce1.git)
+    
 ## Certification
 ISTQB CERTIFIED TESTER FOUNDATION LEVEL (CTFL) CERTIFICATION
